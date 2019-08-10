@@ -1,0 +1,3 @@
+DankMeme.where(quote: "they call it gorilla glue because harambe was metaphorically the glue that held this nation together.").first_or_create
+DankMeme.where(quote: "Do you ever just flex your foot wrong and you're like, this is it. This is how it ends.").first_or_create
+DankMeme.where(quote: "Just because you're trash doesn't mean you can't do great things. It's called a garbage can. Not a garbage cannot.").first_or_create

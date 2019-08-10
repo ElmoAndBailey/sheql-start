@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\config",
+    "\\db",
+    "\\db\\migrate",
+    "\\log",
+    "\\models",
+    "\\public\\assets",
+    "\\public\\assets\\dist",
+    "\\public\\assets\\lib",
+    "\\views"
+  ],
+  "SelectedNode": "\\views\\layout.erb",
+  "PreviewInSolutionExplorer": false
+}

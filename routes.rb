@@ -3,5 +3,11 @@ get '/' do
     erb :"home"
   else
     "Hi, #{session[:name]}.  <img style='width:60px; border-radius:50%;' src='#{session[:picture]}' >"
+
   end
+end
+
+get '/quote' do
+	@dankmemes = DankMeme.all
+	erb :quote
 end
