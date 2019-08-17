@@ -6,11 +6,11 @@
     "\\db\\migrate",
     "\\log",
     "\\models",
+    "\\public",
     "\\public\\assets",
-    "\\public\\assets\\dist",
     "\\public\\assets\\lib",
     "\\views"
   ],
-  "SelectedNode": "\\views\\layout.erb",
+  "SelectedNode": "\\Gemfile",
   "PreviewInSolutionExplorer": false
 }
